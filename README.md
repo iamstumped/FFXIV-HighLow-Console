@@ -7,6 +7,6 @@ Play the "High or Low" minigame from the comfort of your own terminal
   -   Either use the new Terminal app, or edit the registry to enable it.
 
  ## Instructions 
-Run the file with `java -jar HighOrLow.jar` in the terminal.
+Download the jar from the Releases page and run the file with `java -jar HighOrLow.jar` in the terminal.
 
 I take no responsibility for any gambling problems caused or exacerbated by this program.
