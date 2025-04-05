@@ -228,7 +228,7 @@ public class HighOrLow {
                         System.out.println(ANSI_CYAN + "Tista-Bie: " + ANSI_RESET + " So you wish to end on a high note? Perfectly understandable.");
                     }
                     else {
-                        System.out.println("TODO: INSERT TEXT FOR ENDING ON A LOSS HERE"); 
+                        System.out.println("Had enough for now? Fine, fine—I'll be sitting right here should the mood strike you."); 
                     }
                     pause();
                     play = false;
